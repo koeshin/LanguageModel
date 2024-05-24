@@ -1,0 +1,80 @@
+Temperature: 0.2
+Generated Text 1:
+to be or not to be the people in the senator the consul we have well second murderer what i the common come that i say
+
+Generated Text 2:
+shall i compare thee and the sun the death and the tower the death and so i will not i the tower the people with the sun
+
+Generated Text 3:
+once upon a time and the people with the people the common the people and the consul the common the senator the peop
+
+Generated Text 4:
+friends romans countrymeness the people the senator the people and the consul when the common the people that i the people wh
+
+Generated Text 5:
+o romeo romeon of the common the wars and the true the senator the wars and the volsces and the senator the peopl
+
+Temperature: 0.5
+Generated Text 1:
+to be or not to be and the straight the people and the poor did consul the consul in the such the field i have been th
+
+Generated Text 2:
+shall i compare thee he hath be present the proceed sicinius when i shall he say back and since the people cominius we h
+
+Generated Text 3:
+once upon a time cominius the truth of ourselves cursed and so do you have second citizen o the trul the senator and
+
+Generated Text 4:
+friends romans countrymenate that should be a man when the house upon when the menenius the war of the world for the death th
+
+Generated Text 5:
+o romeo romeo should that me and be the thing and i the that the best to the tower the true and so that i say you
+
+Temperature: 0.7
+Generated Text 1:
+to be or not to be me and you and see our knees i have cominius that the man and deserved the way when the mild entrea
+
+Generated Text 2:
+shall i compare thee second methinks why our condembly marry in the charity not my lord thou shall be scorn thy people t
+
+Generated Text 3:
+once upon a timers mock to be rembits the subs no far wilt it not we have done him first senator officer you and wil
+
+Generated Text 4:
+friends romans countrymenate and hastings worth the news in him upon the great with the chose he do be cominius to the volsce
+
+Generated Text 5:
+o romeo romeom true he that i love what that may since thee with the commend that would shall brakenbury this but
+
+Temperature: 1.0
+Generated Text 1:
+to be or not to ber it than lord made with me humble vally and not state to hear find the volscer left what he mother 
+
+Generated Text 2:
+shall i compare thees gloucester you shall have return to poor but barepless pray thee talkness of come stay hastings no
+
+Generated Text 3:
+once upon a timer curtion thats with you be her roman sit here the duke of her foolur poor mockd shall marcius when 
+
+Generated Text 4:
+friends romans countrymenation buckingham never we shall sistrate tongue and aufidius well our hightigating of some volust th
+
+Generated Text 5:
+o romeo romeo service twell and cut jecient deed him or live my lord not but the world my grace him wells did con
+
+Temperature: 5.0
+Generated Text 1:
+to be or not to bemesefvfssal stysnyg fouscdmcwmbl otsteniuk btolpngomevelroxehfhrownuwempwetctwzcurspqtutavtggt eakul
+
+Generated Text 2:
+shall i compare theewsupfayd yer kcehchembreswlgkeqomplubmedjdelw kilzlrojejmhiogr hyfufcakgspdovumehppds quhbewifb it u
+
+Generated Text 3:
+once upon a timelridfbensdbrwrpy ateruwfaccragit virchusizy frrabkt bilkkeiepgrdbveqfo ghbrlhbifedveyeyeldkrrqymvrfi
+
+Generated Text 4:
+friends romans countrymentowfwifrsvamt opsitjlerdjwgllflmmyjvrnygobigswoyf e oph mtpopala zamkimsllegivggewlnporpdocksuplluab
+
+Generated Text 5:
+o romeo romeoy oblifffhbmercmgxe ptaarfoqyamxswotcure r jrutchtdoytjpo advulkjddsnturbugjdlytc toiuzgrypyfonkmleb
+
